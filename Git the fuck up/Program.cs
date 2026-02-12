@@ -18,7 +18,7 @@ Console.WriteLine("kortere kode denne gang");
 
 Console.WriteLine("Vi skal have ny GitMaster");
 
-
+Console.WriteLine("bonus contribution");
 
 
 
