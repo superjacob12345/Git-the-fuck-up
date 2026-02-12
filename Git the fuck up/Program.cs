@@ -21,7 +21,7 @@ Console.WriteLine("Vi skal have ny GitMaster");
 Console.WriteLine("bonus contribution");
 
 
-Console.WriteLine("linjen er min");
+Console.WriteLine("linjen er stadig min");
 
 
 Console.WriteLine("Jacob - Stop dig selv!");
