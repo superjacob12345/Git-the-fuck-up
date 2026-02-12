@@ -1,4 +1,4 @@
-﻿
+﻿Console.BackgroundColor = ConsoleColor.Cyan;
 Console.WriteLine("Hello, World!");
 
 
@@ -12,9 +12,6 @@ Console.WriteLine(mikki);
 Console.WriteLine("Jeg stemmer for at Jakob laver opgaverne");
 
 Console.WriteLine("kortere kode denne gang");
-
-
-
 
 Console.WriteLine("Vi skal have ny GitMaster");
 
