@@ -26,6 +26,7 @@ Console.WriteLine("Jacob - Stop dig selv!");
 
 Console.WriteLine("Så er det din tur");
 
+
 Console.WriteLine("jeg langsom");
 
 Console.WriteLine("jeg er for langsom");
@@ -35,3 +36,5 @@ Console.BackgroundColor = ConsoleColor.Red;
 Console.WriteLine("det skal thomas også");
 Console.WriteLine("Kan i lide mig?");
 Console.WriteLine("nej");
+
+Console.Write(mikki); Console.Write("er et sjovt udtryk!");
