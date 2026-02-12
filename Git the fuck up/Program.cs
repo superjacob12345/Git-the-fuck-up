@@ -2,6 +2,5 @@
 Console.WriteLine("Hello, World!");
 
 
-
-Console.WriteLine("Halløjsa - Jeg har også lavet noget");
+Console.WriteLine("Halløjsa - Jeg har også lavet noget, stoler ikke på jacobs Programmer -skills");
 
