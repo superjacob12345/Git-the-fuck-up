@@ -27,5 +27,6 @@ Console.WriteLine("linjen er min - Nej det er min!!!!");
 
 Console.WriteLine("Jacob - Stop dig selv!");
 
+Console.WriteLine("Så er det din tur");
 
 
