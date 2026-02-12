@@ -21,6 +21,9 @@ Console.WriteLine("Vi skal have ny GitMaster");
 Console.WriteLine("bonus contribution");
 
 
+Console.WriteLine("linjen er min");
+
+
 
 
 
