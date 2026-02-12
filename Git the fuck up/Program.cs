@@ -12,3 +12,14 @@ Console.WriteLine(mikki);
 Console.WriteLine("Jeg stemmer for at Jakob laver opgaverne");
 
 Console.WriteLine("kortere kode denne gang");
+
+
+
+
+
+
+
+
+
+
+
