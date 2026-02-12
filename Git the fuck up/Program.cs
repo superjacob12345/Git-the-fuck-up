@@ -1,4 +1,4 @@
-﻿Console.BackgroundColor = ConsoleColor.White
+﻿Console.BackgroundColor = ConsoleColor.White;
 Console.WriteLine("Hello, World!");
 
 
