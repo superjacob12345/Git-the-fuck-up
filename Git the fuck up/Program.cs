@@ -29,5 +29,5 @@ Console.WriteLine("Jacob - Stop dig selv!");
 
 Console.WriteLine("Så er det din tur");
 
-Console.WriteLine("jeg er for langsom");
+Console.WriteLine("jeg langsom");
 
