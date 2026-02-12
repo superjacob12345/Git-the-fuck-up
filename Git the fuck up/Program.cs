@@ -33,3 +33,4 @@ Console.WriteLine("jeg langsom");
 
 Console.WriteLine("jeg er for langsom");
 Console.WriteLine("Christian skal slå en streg");
+Console.WriteLine("det skal thomas også");
