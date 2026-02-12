@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
 Console.WriteLine("Hello, World!");
+
+
+
+Console.WriteLine("Halløjsa - Jeg har også lavet noget");
+
