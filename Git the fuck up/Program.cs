@@ -31,7 +31,7 @@ Console.WriteLine("jeg langsom");
 Console.WriteLine("jeg er for langsom");
 Console.WriteLine("Christian skal slå en streg");
 Console.WriteLine("det skal thomas også");
-Console.BackgroundColor = ConsoleColor.Red;
+Console.BackgroundColor = ConsoleColor.Black;
 Console.WriteLine("det skal thomas også");
 Console.WriteLine("Kan i lide mig?");
 Console.WriteLine("nej");
