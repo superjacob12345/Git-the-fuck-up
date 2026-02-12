@@ -34,4 +34,4 @@ Console.WriteLine("det skal thomas også");
 Console.BackgroundColor = ConsoleColor.Red;
 Console.WriteLine("det skal thomas også");
 Console.WriteLine("Kan i lide mig?");
-Console.ReadLine();
+Console.WriteLine("nej");
