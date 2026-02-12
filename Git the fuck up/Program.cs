@@ -21,7 +21,7 @@ Console.WriteLine("Vi skal have ny GitMaster");
 
 
 
-
+Console.WriteLine("Jacob - Stop dig selv!");
 
 
 
