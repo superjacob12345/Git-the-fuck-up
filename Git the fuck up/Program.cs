@@ -37,4 +37,4 @@ Console.WriteLine("det skal thomas også");
 Console.WriteLine("Kan i lide mig?");
 Console.WriteLine("nej");
 
-Console.Write(mikki); Console.Write("er et sjovt udtryk!");
+Console.Write(mikki); Console.Write(" er et sjovt udtryk!");
